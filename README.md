@@ -45,4 +45,4 @@ The plugin status shows the last held course and how many empty values it has co
 
 ## License
 
-MIT
+Apache-2.0

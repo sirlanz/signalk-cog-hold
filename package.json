@@ -12,7 +12,7 @@
     "garmin"
   ],
   "author": "Andrea Lanzoni",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/sirlanz/signalk-cog-hold.git"
