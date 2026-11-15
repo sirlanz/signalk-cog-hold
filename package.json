@@ -1,0 +1,29 @@
+{
+  "name": "signalk-cog-hold",
+  "version": "1.0.0",
+  "description": "Keeps the last valid course over ground when the GPS reports it empty at low speed, so NMEA 2000 displays (e.g. Garmin GMI 20) do not report GPS loss at anchor or moored",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-nmea-2000",
+    "signalk-category-utility",
+    "cog",
+    "nmea2000",
+    "garmin"
+  ],
+  "author": "Andrea Lanzoni",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirlanz/signalk-cog-hold.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sirlanz/signalk-cog-hold/issues"
+  },
+  "homepage": "https://github.com/sirlanz/signalk-cog-hold#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
